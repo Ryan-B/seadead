@@ -14,7 +14,7 @@
 
 	img 
 	{
-		width: 200px;
+		width: 300px;
 		display: block;
 		margin: auto;
 		margin-top: 40px;
@@ -23,9 +23,10 @@
 
 	iframe
 	{
-		margin: 0;
-		align: center;
+		margin: auto;
+		/*align: center;*/
 		width: 320px;
+		height: 380px;
 	}	
     
 }
