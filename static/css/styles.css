@@ -14,6 +14,7 @@
 
 	img 
 	{
+		width: 200px;
 		display: block;
 		margin: auto;
 		margin-top: 40px;
@@ -22,8 +23,9 @@
 
 	iframe
 	{
-		margin: auto;
+		margin: 0;
 		align: center;
+		width: 320px;
 	}	
     
 }
@@ -46,12 +48,14 @@
 		margin: auto;
 		margin-top: 30px;
 		border: 2px solid black;
+		width: 400px;
 	}
 
 	iframe
 	{
 		display: block;
 		margin: auto;
+		width: 500px;
 
 	}	
    
@@ -81,6 +85,7 @@
 	{
 		margin: auto;
 		align: center;
+		width: 500px;
 	}	
 
    
